@@ -6,6 +6,7 @@ using System.Web;
 
 namespace ContactManager.Services
 {
+
     public class ContactRepository
     {
         public Contact[] GetAllContacts()
